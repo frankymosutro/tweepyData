@@ -1,4 +1,5 @@
-![Texto alternativo](images/python.png)
+<img src="images/python.png" width="400">
+
 # Tweepy data
 
 Script hecho en **python**, con el que se podrá obtener diferente información de **twitter**, mediante la **API** de **`tweepy`**.
